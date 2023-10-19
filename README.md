@@ -1,4 +1,5 @@
 ### Hi there 👋👋👋👋👋👋👋👋👋
+I am a first year student of bachelor of computer science (software engineering).
 
 <!--
 **tkeqin/tkeqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
