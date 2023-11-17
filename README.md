@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋👋👋👋👋👋👋
 I am a first year student of bachelor of computer science (software engineering).
-<h1 align="center">Hi 👋, I'm Keqin</h1>
+<h1 align="center">Hi 👋, I'm pretty</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 <h3 align="left">Connect with me:</h3>
