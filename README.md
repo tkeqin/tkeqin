@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 * 🌍  I'm based in Malaysia
-* 🖥️  See my portfolio at [https://github.com/tkeqin](http://https://github.com/tkeqin)
+* 🖥️  See my portfolio at [https://github.com/tkeqin](https://github.com/tkeqin)
 * ✉️  You can contact me at [kktankq@gmail.com](mailto:kktankq@gmail.com)
 * 🧠  I'm learning Bachelor of Computer Science (Software Engineering)
 
