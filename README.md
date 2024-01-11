@@ -6,6 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [kktankq@gmail.com](mailto:kktankq@gmail.com)
 * 🧠  I'm learning Bachelor of Computer Science (Software Engineering)
 
+<p align="left">
+<img src="https://rockntech.com.br/wp-content/uploads/2014/04/gifs-rebecca-mock_3.gif" width="36" height="36" alt="C++" />
+
 ### Skills
 
 <p align="left">
